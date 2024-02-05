@@ -1,3 +1,7 @@
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 # Tanzu Application Platform Demo script
 
 ## Prerequisites
@@ -19,3 +23,13 @@
 - [Demo Magic](https://github.com/paxtonhare/demo-magic) is pulled via `vendir sync`
 
 ## Related Videos
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[forks-shield]: https://img.shields.io/github/forks/dashaun/openrewrite-spring-boot-upgrade-example.svg?style=for-the-badge
+[forks-url]: https://github.com/Eknathreddy09/Tap-demo-script/forks
+[stars-shield]: https://img.shields.io/github/stars/dashaun/openrewrite-spring-boot-upgrade-example.svg?style=for-the-badge
+[stars-url]: https://github.com/Eknathreddy09/Tap-demo-script/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dashaun/openrewrite-spring-boot-upgrade-example.svg?style=for-the-badge
+[issues-url]: https://github.com/Eknathreddy09/Tap-demo-script/issues

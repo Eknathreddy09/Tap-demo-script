@@ -27,7 +27,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/dashaun/openrewrite-spring-boot-upgrade-example.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/eknathreddy09/Tap-demo-script.svg?style=for-the-badge
 [forks-url]: https://github.com/Eknathreddy09/Tap-demo-script/forks
 [stars-shield]: https://img.shields.io/github/stars/dashaun/openrewrite-spring-boot-upgrade-example.svg?style=for-the-badge
 [stars-url]: https://github.com/Eknathreddy09/Tap-demo-script/stargazers

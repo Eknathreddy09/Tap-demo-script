@@ -1,4 +1,4 @@
-Prerequisites
+**Prerequisites**
 
 SDKMan
 i.e. curl -s "https://get.sdkman.io" | bash
@@ -12,9 +12,9 @@ i.e. sudo apt install bc, pv, zip, unzip, gcc, zlib1g-dev -y
 Vendir
 i.e. brew tap carvel-dev/carvel && brew install vendir
 
-Quick Start
+**Quick Start**
 ./demo.sh
 
 
-Attributions
+**Attributions**
 Demo Magic is pulled via vendir sync

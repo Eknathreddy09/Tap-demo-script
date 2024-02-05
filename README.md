@@ -14,6 +14,11 @@
 - [Vendir](https://carvel.dev/vendir/)
   > i.e. `brew tap carvel-dev/carvel && brew install vendir`
 
+## Cluster Access
+
+- Install TAP (full profile) in tap-install namespace or request access for Shared TAP Cluster
+- Change the context to TAP cluster
+
 ## Quick Start
 ```bash
 ./demo.sh
@@ -23,7 +28,6 @@
 - [Demo Magic](https://github.com/paxtonhare/demo-magic) is pulled via `vendir sync`
 
 ## Related Videos
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
